@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
-kind: Ingestion
+kind: Component
 metadata:
-  name: rawzone
+  name: Ingestion
   description: |
     Processos de ingestao
   links:
